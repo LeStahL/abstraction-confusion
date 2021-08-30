@@ -1,5 +1,5 @@
 # Abstraction-Confusion
-Abstraction-Confusion is a PC-4k intro by Team210, shown at Xenium 2021. It got the third place in the PC-4k intro compo.
+Abstraction-Confusion is a PC-4k intro by Team210 and CN112, shown at Xenium 2021. It got the third place in the PC-4k intro compo.
 
 # Licenses
 * The intro is Copyright (c) 2021, Team210 and CN112, Alexander Kraus <nr4@z10.info> and licensed under GPLv3, see LICENSE.
@@ -20,3 +20,8 @@ Abstraction-Confusion is a PC-4k intro by Team210, shown at Xenium 2021. It got 
 * For debug builds (fast) run `cmake [SOURCE_ROOT] -G"Visual Studio 15 2017" -DCMAKE_BUILD_TYPE=Debug`, for release builds (quite time-consuming), run `cmake [SOURCE_ROOT] -G"Visual Studio 15 2017" -DCMAKE_BUILD_TYPE=Release`
 * Run `cmake --build . --config Release`
 * Enjoy - And don't forget to have a beer with NR4/Team210 at any Demoparty you feel is appropriate :)
+
+# Links
+* Youtube: https://www.youtube.com/watch?v=S-9hCYyxbM4
+* Demozoo: https://demozoo.org/productions/299164/
+* Pouet: https://www.pouet.net/prod.php?which=89693
